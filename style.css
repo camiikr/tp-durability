@@ -12,3 +12,8 @@ body {
 h1, h2 {
     color: indigo;
 }
+
+h2 {
+    border-bottom: solid indigo;
+    padding-bottom:0%;
+}
