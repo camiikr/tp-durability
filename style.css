@@ -8,3 +8,7 @@ body {
     margin: auto;
     padding: 10%;
 }
+
+h1, h2 {
+    color: indigo;
+}
