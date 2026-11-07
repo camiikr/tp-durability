@@ -1,5 +1,8 @@
 /* Feuille de style de la page « Le poids caché du web » */
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:crimson;
+    background-color:darkturquoise;
+    line-height: 2;
 }
 
