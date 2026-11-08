@@ -17,3 +17,7 @@ h2 {
     border-bottom: solid indigo;
     padding-bottom:0%;
 }
+
+a {
+    color: bisque;
+}
