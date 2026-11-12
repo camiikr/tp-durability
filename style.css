@@ -84,8 +84,8 @@ footer {
 }
 
 body.sombre {
-    background-color: #111c1b;
-    color: #e2ebe9;
+    background-color: rgb(0, 140, 143);
+    color: rgb(112, 11, 31);
 }
 .sombre h2 {
     color: #7fd1c3;
