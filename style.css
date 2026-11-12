@@ -46,3 +46,9 @@ th {
 td {
     background-color: cadetblue;
 }
+
+header {
+    text-align: center;
+    background-color:burlywood;
+    padding: 20px;
+}
