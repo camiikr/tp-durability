@@ -53,3 +53,8 @@ header {
     padding: 20px;
     border-radius: 10px;
 }
+
+section {
+    background-color:darksalmon;
+    padding: 20px;
+}
