@@ -21,6 +21,7 @@ h2 {
 a {
     color: bisque;
     text-decoration: none;
+    transition: 1.3s;
 }
 
 a:hover {
