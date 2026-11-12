@@ -31,3 +31,10 @@ img {
     max-width: 800px;
     border-radius: 8%;
 }
+
+table {
+    border-collapse: separate;
+    border: 40px solid fuchsia;
+    padding: 50px;
+    background-color: black;
+}
