@@ -63,3 +63,8 @@ section {
 .intro {
     font-style: italic;
 }
+
+footer {
+    text-align: center;
+    font-size: 11px;
+}
