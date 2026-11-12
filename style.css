@@ -38,3 +38,11 @@ table {
     padding: 50px;
     background-color: black;
 }
+
+th {
+    background-color: aquamarine;
+}
+
+td {
+    background-color: cadetblue;
+}
