@@ -89,4 +89,7 @@ body.sombre {
 }
 .sombre h2 {
     color: #7fd1c3;
+
+.sombre h1, h2 {
+    color: rgb(149, 0, 255);
 }
