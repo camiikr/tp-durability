@@ -16,3 +16,5 @@ curseur.addEventListener("input", function () {
 document.body.style.fontSize = curseur.value + "%";
 valeurTaille.textContent = curseur.value + " %";
 });
+
+const heure = new Date().getHours();
