@@ -13,5 +13,5 @@ const curseur = document.querySelector("#curseur-taille");
 
 const valeurTaille = document.querySelector("#valeur-taille");
 curseur.addEventListener("input", function () {
-
+document.body.style.fontSize = curseur.value + "%";
 });
