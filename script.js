@@ -18,3 +18,4 @@ valeurTaille.textContent = curseur.value + " %";
 });
 
 const heure = new Date().getHours();
+const salutation = document.querySelector("#salutation");
