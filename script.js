@@ -8,3 +8,6 @@ if (document.body.classList.contains("sombre")) {
     boutonTheme.textContent = "Mode sombre";
 }
 });
+const curseur = document.querySelector("#curseur-taille");
+
+const valeurTaille = document.querySelector("#valeur-taille");
